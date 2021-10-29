@@ -1,0 +1,13 @@
+                html {
+                    height: 1000px;
+                }
+                
+                body {
+                    background-color: GREY;
+                }
+                
+                #menu-section {
+                    width: 90%;
+                    padding: 20px;
+                    background-color: rgb(155, 153, 153);
+                }
